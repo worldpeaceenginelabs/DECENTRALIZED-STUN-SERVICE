@@ -1,0 +1,13 @@
+{ "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Bo",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^19.0.1",
+    "electron-packager": "^15.5.1",
+    "gun": "^0.2020.1237",
+    "http": "^0.0.1-security"
+  }
+}
