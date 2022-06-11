@@ -1,13 +1,1 @@
-{ "main": "main.js",
-  "scripts": {
-    "start": "electron ."
-  },
-  "author": "Bo",
-  "license": "MIT",
-  "dependencies": {
-    "electron": "^19.0.1",
-    "electron-packager": "^15.5.1",
-    "gun": "^0.2020.1237",
-    "http": "^0.0.1-security"
-  }
-}
+{"main":"main.js","type":"commonjs","scripts":{"start":"electron ."},"author":"Bo","license":"MIT","dependencies":{"electron":"^19.0.1","electron-packager":"^15.5.1","gun":"^0.2020.1237","http":"^0.0.1-security","public-ip":"^5.0.0"}}
